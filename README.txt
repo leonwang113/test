@@ -1,2 +1,2 @@
 readme
-fucking read 
+read 
